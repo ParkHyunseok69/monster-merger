@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\monster_merger\monster_merger\bin\Debug\net9.0\monster_merger.exe
+C:\Users\user\Desktop\monster_merger\monster_merger\bin\Debug\net9.0\monster_merger.deps.json
+C:\Users\user\Desktop\monster_merger\monster_merger\bin\Debug\net9.0\monster_merger.runtimeconfig.json
+C:\Users\user\Desktop\monster_merger\monster_merger\bin\Debug\net9.0\monster_merger.dll
+C:\Users\user\Desktop\monster_merger\monster_merger\bin\Debug\net9.0\monster_merger.pdb
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\monster_merger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\monster_merger.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\monster_merger.AssemblyInfo.cs
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\monster_merger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\monster_merger.dll
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\refint\monster_merger.dll
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\monster_merger.pdb
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\monster_merger.genruntimeconfig.cache
+C:\Users\user\Desktop\monster_merger\monster_merger\obj\Debug\net9.0\ref\monster_merger.dll
